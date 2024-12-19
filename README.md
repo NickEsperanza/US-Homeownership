@@ -1,1 +1,2 @@
 # US-Homeownership
+Taking a look into the racial makeup of homeownership within the US. Data was collected from the American Housing Survey which is produced by the US Census Bureau every 2 years and sponsored by the US Department of Housing and Urban Development. The survey is voluntary and made of estimates, but offers an insight into what homeowenrship looks like in the US and can be viewed by region.
